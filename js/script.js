@@ -63,7 +63,7 @@ let graden_image = gsap.timeline({
     trigger:".garden",
     start:"50% 50%",
     end:"50% 20%",
-    markers: true, 
+    // markers: true, 
     pin:true,
     scrub:2.8
   }
